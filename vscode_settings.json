@@ -1,0 +1,33 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 20,
+  "editor.mouseWheelZoom": true,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.mouseWheelScrollSensitivity": 7,
+  "update.mode": "none",
+  "extensions.autoUpdate": false,
+  "extensions.autoCheckUpdates": false,
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "editor.defaultFormatter": "xaver.clang-format",
+  "clang-format.executable": "C:\\msys64\\mingw64\\bin\\clang-format.exe",
+  "editor.folding": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown-math]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cmake.showOptionsMovedNotification": false,
+  "editor.stickyScroll.enabled": false,
+  "git.openRepositoryInParentFolders": "never"
+}
